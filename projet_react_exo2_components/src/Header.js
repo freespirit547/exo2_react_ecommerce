@@ -5,9 +5,9 @@ function Header() {
             <h1>Je suis le header</h1>
             <nav>
                 <ul>
-                    <li>Menu el 1</li>
-                    <li>Menu el 2</li>
-                    <li>Menu el 3</li>
+                    <li>Menu element 1</li>
+                    <li>Menu element 2</li>
+                    <li>Menu element 3</li>
                 </ul>
             </nav>
        </header>
